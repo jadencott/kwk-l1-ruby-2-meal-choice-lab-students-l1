@@ -8,7 +8,7 @@ def breakfast(food="granola")
 puts "Wake up with the best #{food} in the world!"
 end
 
-def lunch(food="salad")
+def lunch(food="Salad")
   puts "#{food} is healthy and good for you"
 end
 
