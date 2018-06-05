@@ -12,7 +12,7 @@ def lunch(food="salad")
   puts "#{food} is healthy and good for you"
 end
 
-def dinner(food="mangos")
+def dinner(food="mangos".capitalize)
   puts "#{food} aren't meant for dinner, but it's okay"
 end 
 
